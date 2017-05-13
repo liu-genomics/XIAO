@@ -14,6 +14,7 @@ output:
 ### Reads number after filtering out low quality reads and uniquely mappable reads  [[More...]](170301_read_count_of_1st_batch_mouse_mRNA_seq.html).
 ### Reads number mapped to protein coding genes, Relative expression levels for each gene at different groups [[Click here]](170305_read_count_table_for_protein_coding_genes.txt).
 ### EdgeR analysis of differentiall expressed genes [[More ...]](170304_edgeR_analysis_for_differentially_expressed_genes.html)
+### Normalized read count (Used effect library size estimated by EdgeR), normalied to 20 million reads for each library. [[More...]](170512_normalized_read_count_to_effective_lib_size_20M.txt)
 
 
 **Last updated:** `r Sys.time()`

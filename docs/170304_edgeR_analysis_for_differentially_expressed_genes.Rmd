@@ -148,7 +148,7 @@ fwrite(diff_table[[i]][qvalue<0.05], diff_gene_filename[i], col.names = TRUE, se
 * [*Genes that are differentially regulated by Progesterone in PBS*](170305_Progesterone_PBS.txt)
 * [*Genes that are differentially regulated by E2 in DOX*](170305_E2_DOX.txt)
 * [*Genes that are differentially regulated by Progesterone in DOX*](170305_Progesterone_DOX.txt)
-* [*Genes that are differentially specifically regulated by E2 in DOX compared to in PBS*](Compariosn_1.txt)
+* [*Genes that are differentially specifically regulated by E2 in DOX compared to in PBS*](Comparison_1.txt)
 * [*Genes that are differentially specifically regulated by Progesterone in DOX compared to in PBS*](Comparison_2.txt)
 
 
